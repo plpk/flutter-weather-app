@@ -17,16 +17,11 @@ A Flutter weather application that displays current weather conditions based on 
 
 ## Setup
 1. Clone this repository
-2. Create a `.env` file in the root directory with your OpenWeather API key: OPENWEATHER_API_KEY=your_api_key_here
+2. Create a `.env` file in the root directory with your OpenWeather API key: `OPENWEATHER_API_KEY=your_api_key_here`
 3. Run `flutter pub get` to install dependencies
 4. Run the app with `flutter run`
 
 ## Screenshots
 
-<p align="center">
-  <img src="/Users/devwork/Development/weather_app/screenshots/screenshot1.jpg alt="Home Screen" width="300"/>
-  <p align="center">Home Screen with current weather</p>
-  
-  <img src="/Users/devwork/Development/weather_app/screenshots/screenshot2.jpg" alt="App Icon" width="300"/>
-  <p align="center">App Icon</p>
-</p>
+![Home Screen](screenshots/screenshot1.jpg)
+![App Icon](screenshots/screenshot2.jpg)
