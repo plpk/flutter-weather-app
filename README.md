@@ -24,9 +24,9 @@ A Flutter weather application that displays current weather conditions based on 
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/screenshot1.jpg" alt="Home Screen" width="300"/>
+  <img src="/Users/devwork/Development/weather_app/screenshots/screenshot1.jpg alt="Home Screen" width="300"/>
   <p align="center">Home Screen with current weather</p>
   
-  <img src="screenshots/screenshot2.jpg" alt="City Search" width="300"/>
-  <p align="center">Weather details for a searched city</p>
+  <img src="/Users/devwork/Development/weather_app/screenshots/screenshot2.jpg" alt="City Search" width="300"/>
+  <p align="center">App Icon</p>
 </p>
