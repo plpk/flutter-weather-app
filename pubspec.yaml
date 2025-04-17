@@ -26,7 +26,7 @@ flutter_icons:
   ios: true
   image_path: "assets/grapheneos_weather_icon.png"
   adaptive_icon_background: "#000000" # Black background
-  adaptive_icon_foreground: "assets/grapheneos_weather_icon_foreground.png"
+  adaptive_icon_foreground: "assets/weather_app_play_store_icon.png"
 
 flutter:
   uses-material-design: true
